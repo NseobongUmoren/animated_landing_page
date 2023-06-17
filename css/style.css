@@ -1,0 +1,138 @@
+header>.inner-container {
+  justify-content: space-between;
+}
+
+nav, nav>ul>li>a {
+  height: var(--nav-height);
+}
+
+nav {
+  background-color: var(--theme-darker);
+}
+
+nav>ul>li {
+  display: inline-flex;
+}
+
+nav>ul>li>a {
+  color: #fff;
+  padding: 0 20px;
+  font-size: 1.25rem;
+  font-weight: 400;
+  font-family: 'Exo', sans-serif;
+}
+
+nav>ul>li>a:hover {
+  background-color: var(--theme-darkest);
+  color: #fff;
+  text-decoration: none;
+}
+
+.tita-banner {
+  background-image: url(../images/titabg2.jpg);
+  height: 60vh;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+.tita-banner>.overlay {
+  position: absolute;
+  background-image: linear-gradient(270deg, #00000000 40%, #a3bcf9a0 50%, #a3bcf9 70%);
+  background-attachment: fixed;
+}
+
+.tita-banner>.inner-container>.d-flex-column {
+  justify-content: center;
+  width: 50%;
+}
+
+.inner-container .text-wrapper {
+  padding: 0 15px;
+}
+.wycl .item {
+  width: calc(33.33% - 40px);
+}
+
+.wycl .img-wrapper {
+  background-color: var(--theme-main);
+  border: 1px solid var(--theme-lighter);
+  border-radius: 10px;
+  box-shadow: 0 5px 5px 0 var(--theme-darker);
+  overflow: hidden;
+}
+
+.wycl img {
+  height: 250px;
+  width: 250px;
+}
+
+.wlwu .item {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  width: calc(33.33% - 40px);
+}
+
+.wlwu-text {
+  margin: 10px;
+}
+
+.wlwu-text>h6,
+.wlwu-text>p {
+  align-self: flex-start;
+  text-align: left;
+}
+
+.woss .img-wrapper {
+  height: 100px;
+  width: 100px;
+  border: 3px solid var(--theme-dark);
+  border-radius: 50%;
+  overflow: hidden;
+}
+
+.woss .img-wrapper>.material-icons {
+  font-size: 140px;
+}
+
+.woss .text-wrapper {
+  margin: 10px;
+  font-size: 1.2rem;
+  font-style: italic;
+  line-height: 1.5;
+}
+
+section.bai {
+  background-color: var(--theme-darkest);
+  margin-bottom: 0;
+}
+
+.bai .items-wrapper {
+  min-height: 300px;
+  color: #fff;
+}
+
+.bai p {
+  max-width: 320px;
+  padding: 0 10px;
+}
+
+.bai .btn {
+  border: 1px solid #fff;
+}
+
+.footer {
+  height: 55px;
+  background-color: #000000d0;
+  color: #fff;
+}
+
+.footer>.inner-container {
+  align-items: center;
+  justify-content: space-between;
+}
+
+.footer>.inner-container .material-icons {
+  padding: 10px 20px;
+}

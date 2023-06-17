@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="1024px" height="768px" viewBox="0 0 1024 768" style="enable-background:new 0 0 1024 768;" xml:space="preserve">
+<path style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:10;" d="M-14.07,30.474c0-2.847,0.128-5.667,0.342-8.467
+	c-1.084-6.246-1.657-12.648-1.657-19.165c0-0.728,0.014-1.452,0.028-2.177c-1.637-7.417-2.559-15.077-2.644-22.911
+	C-515.002-9.813-805.261-15.246-1214-109c100.684,187.014,125.439,317.435,131.529,433.943c1.757-0.447,3.59-0.688,5.471-0.688
+	c12.399,0,22.745,10.346,22.745,22.745c0,4.791-1.549,9.271-4.16,12.971c9.771,2.541,17.16,11.552,17.16,22.029
+	c0,5.47-2.015,10.538-5.33,14.497c0.769,2.139,1.233,4.413,1.311,6.774c268.689-229.407,548.991-13.362,1027.388-268.202
+	c-0.007-0.216-0.017-0.431-0.017-0.648c0-5.26,1.867-10.145,4.96-14.03c-3.292-10.586-5.075-21.785-5.075-33.338
+	c0-12.476,2.079-24.539,5.894-35.862C-13.392,44.455-14.07,37.533-14.07,30.474z"/>
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="0" y1="201.6357" x2="1024" y2="201.6357">
+	<stop  offset="0" style="stop-color:#FFFFFF"/>
+	<stop  offset="0.0911" style="stop-color:#E0E0EF"/>
+	<stop  offset="0.264" style="stop-color:#AAABD3"/>
+	<stop  offset="0.4333" style="stop-color:#7E7FBC"/>
+	<stop  offset="0.595" style="stop-color:#5B5DA9"/>
+	<stop  offset="0.7473" style="stop-color:#42459D"/>
+	<stop  offset="0.8863" style="stop-color:#333695"/>
+	<stop  offset="1" style="stop-color:#2E3192"/>
+</linearGradient>
+<path style="opacity:0.6;fill:url(#SVGID_1_);stroke:#000000;stroke-width:5;stroke-miterlimit:10;" d="M0,403.271
+	c0,0,79.842-83.324,179.842-108.324s343.42,25,551.315-85.526C939.053,98.895,1024,137.053,1024,137.053V0H0V403.271z"/>
+</svg>
